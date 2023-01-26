@@ -16,7 +16,7 @@ pip install ahrefs_python
 ## Usage example:
 
 ```
-api = AhrefsApi('http://apiv2.ahrefs.com', 'xxxx')
+api = AhrefsApi('https://api.ahrefs.com/v3/', 'xxxx')
 ahrefs_rank_result = api.ahrefs_rank('example.net').order_by('url:asc').where('url="http://example.net/"').get()
 ```
 
