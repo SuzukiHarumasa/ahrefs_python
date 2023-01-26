@@ -10,7 +10,7 @@ https://docs.ahrefs.com/docs/api/reference/introduction
 ## Install:
 
 ```
-pip install ahrefs_api_python
+pip install ahrefs_python
 ```
 
 ## Usage example:
